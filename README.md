@@ -57,5 +57,7 @@ Figure1: Output after we deployed
 Figure2: here in the above console error is showing due to this line of the code ``` require(msg.value > 1e18 , "Not send enough");``` as we don't have enough<br>
 ether to send
 
+Revert is undo any action before and send the gas back. here in this code ``` require(msg.value > 1e18 , "Not send enough");``` reverting occurs
+
 
 
