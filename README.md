@@ -30,7 +30,7 @@ So both smart contract and wallet can hold native blockchain token like etherium
 
 pragma solidity ^0.8.8;
 
-contract akrkFundMe public {
+contract akrkFundMe  {
 
 // we have use payable keyword with the function below to make it payable with any native blockchain currency
     function fund() public payable {
