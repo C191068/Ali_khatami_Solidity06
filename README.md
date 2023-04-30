@@ -1,3 +1,4 @@
+
 ## Ali_khatami_Solidity06(from the video of Pattrick Collins)
 ### Remix fund me
 
@@ -58,6 +59,15 @@ Figure2: here in the above console error is showing due to this line of the code
 ether to send
 
 Revert is undo any action before and send the gas back. here in this code ``` require(msg.value > 1e18 , "Not send enough");``` reverting occurs
+
+
+![f2](https://user-images.githubusercontent.com/89090776/235350649-4df83465-a72d-4892-80e8-54115098cb56.jpg)
+figure3: according to the condition wwe made in the code we set the value to 2
+
+![f3](https://user-images.githubusercontent.com/89090776/235350715-58c23ae6-cd8a-4afc-a498-e05d93bd0c36.jpg)
+Figure4:Then we click the ```fund``` button and successfully transacctions occured
+
+
 
 
 
