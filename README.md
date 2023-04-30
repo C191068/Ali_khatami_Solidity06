@@ -53,4 +53,9 @@ contract akrkFundMe  {
 ![w33](https://user-images.githubusercontent.com/89090776/231412248-cc110365-6f69-47a3-b6ab-d40822e3a11a.jpg)
 Figure1: Output after we deployed
 
+![f1](https://user-images.githubusercontent.com/89090776/235349557-ba19ced0-843c-4ba5-b2ae-5e29917395db.jpg)
+Figure2: here in the above console error is showing due to this line of the code ``` require(msg.value > 1e18 , "Not send enough");``` as we don't have enough<br>
+ether to send
+
+
 
