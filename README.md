@@ -26,7 +26,9 @@ Smart contract addresses are nearly the same as the wallet addresses<br>
 
 So both smart contract and wallet can hold native blockchain token like etherium
 
-```
+```solidity
+
+
 //SPDX-License-Identifier:MIT
 
 pragma solidity ^0.8.8;
