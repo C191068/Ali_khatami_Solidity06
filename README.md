@@ -64,7 +64,7 @@ Revert is undo any action before and send the gas back. here in this code ``` re
 
 
 ![f2](https://user-images.githubusercontent.com/89090776/235350649-4df83465-a72d-4892-80e8-54115098cb56.jpg)
-figure3: according to the condition wwe made in the code we set the value to 2
+figure3: according to the condition we made in the code we set the value to 2
 
 ![f3](https://user-images.githubusercontent.com/89090776/235350715-58c23ae6-cd8a-4afc-a498-e05d93bd0c36.jpg)
 Figure4:Then we click the ```fund``` button and successfully transacctions occured
